@@ -1,7 +1,6 @@
-# The goal of this script is to call methylation on BAM files generated in 
-# Singapore for the HMDP.
+# The goal of this script is to call methylation on BAM files for the HMDP.
 
-# First, set up a conda environment for Christoph
+# First, set up a conda environment
 # In one terminal:
 alias conda='/home/user/anaconda2/bin/conda' # Do this once
 
