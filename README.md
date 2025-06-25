@@ -1,6 +1,7 @@
 These are the scripts used for the manuscript: **Mapping DNA Methylation to Cardiac Pathologies Induced by Beta-Adrenergic Stimulation in a Large Panel of Mice**  Doi: https://doi.org/10.1080/15592294.2025.2524411
 
 Script 1:  Methylation_Calling_Script.sh - BASH
+
   Input:  fastQ.gz files from the sequencer, fasta files for the whole genome sequence
   Function: It constructs an RRBS_digested genome, followed by BSseeker2 alignment, followed by CG calling and SNP identification
   Output:  One file per input with CGs and one file per input of identified SNPs
