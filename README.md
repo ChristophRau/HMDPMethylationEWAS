@@ -1,4 +1,4 @@
-These are the scripts used for the manuscript: **Mapping DNA Methylation to Cardiac Pathologies Induced by Beta-Adrenergic Stimulation in a Large Panel of Mice**  Doi: TBD
+These are the scripts used for the manuscript: **Mapping DNA Methylation to Cardiac Pathologies Induced by Beta-Adrenergic Stimulation in a Large Panel of Mice**  Doi: https://doi.org/10.1080/15592294.2025.2524411
 
 Script 1:  Methylation_Calling_Script.sh - BASH
   Input:  fastQ.gz files from the sequencer, fasta files for the whole genome sequence
